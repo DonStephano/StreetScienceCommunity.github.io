@@ -33,31 +33,43 @@ Needed material
 - Magnet
 - Spectrophotometer
 
+
+
 ## Beer DNA extraction
 
 0. Pre-cooled the centrifuge so that it starts at 4℃.
+1. Open the beer few hours before to get most of the CO2 out
 
 ### Extract the yeast from the beer
 
 1. Shake the beer bottle (a bit)
-2. Transfer into an 1000ml Erlenmeyer flask (the big glass that looks like a triangle)
+2. Transfer into an 1000ml Erlenmeyer flask
     
-    You can arefully shake it to remove a bit of CO2
-    
-3. Transfer the beer (not the foam) into 50ml Falcon tubes using a large pipette 
+    Shake it carefully the Erlenmeyer flask to remove the CO2. A foam will form, whose the size depends on the beer, its temperature and for how long it was open.
+
+    ![](/images/protocols/erlenmeyer_with_beer.svg){: width="35%"}
+
+3. Transfer the beer (not the foam) into 50ml Falcon tubes using a large pipette
+
+    ![](/images/protocols/falcon_with_beer.svg){: width="75%"}
    
-   - Make sure each tube gets the same quantity (to balance the centrifuge)
-   - Put a lid on each tube but don't close them until the next step (CO2 needs to be evacuated)
+    - Make sure each tube gets the same quantity (to balance the centrifuge for the next step)
+    - Put a lid on each tube but don't close them until the next step (CO2 needs to be evacuated)
    
-4. Put the tubes (with the lids) in the centrifuge for 10min at full-speed and 4℃
+4. Put the tubes (with the lids closed) in the centrifuge for 10min at full-speed and 4℃
+
+    Be careful that the centrifuge is correctly balanced: put same number of tubes on each opposite side.
    
-   This step separates the liquid phase and the solid phase (which contains yeast among other things)
-   
-5. Transfer the pellet, solid part on the bottom, into 5ml Eppendorf tubes
-6. Mix with 1ml neutral buffer (tris/buffer 7.4 1M) with a pipette
-7. Label the tubes
-8. Put the tubes into the centrifuge one more time for about 5 min at full-speed
-9. Transfer the pellet into 4 5ml Eppendorf tubes
+    This step separates the liquid phase and the solid phase (which contains yeast among other things): 
+
+    ![](/images/protocols/after_centrifuge_1.svg){: width="25%"}
+
+5. Trough the liquid out
+6. Transfer the pellet, solid part on the bottom, into 5ml Eppendorf tubes
+7. Mix with 1ml neutral buffer (tris/buffer 7.4 1M) with a pipette
+8. Label the tubes
+9. Put the tubes into the centrifuge one more time for about 5 min at full-speed
+10. Transfer the pellet into 4 5ml Eppendorf tubes
 
 ### Break the cell membranes of the yeasts
 
